@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/HYD17/!svn/ver/8367/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp
+END
+UpdateNsepAccount.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/HYD17/!svn/ver/8309/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/UpdateNsepAccount.jsp
+END
+Home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/HYD17/!svn/ver/4844/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/Home.jsp
+END
+StudentAccountUpdateSucess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/HYD17/!svn/ver/8341/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/StudentAccountUpdateSucess.jsp
+END
+Footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/HYD17/!svn/ver/7601/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/Footer.jsp
+END
+StudentAccountDeleteFailure.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/HYD17/!svn/ver/7421/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/StudentAccountDeleteFailure.jsp
+END
+StudentAccountDetailsSucess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/HYD17/!svn/ver/7679/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/StudentAccountDetailsSucess.jsp
+END
+TransactionError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/HYD17/!svn/ver/6904/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/TransactionError.jsp
+END
+NsepCreatepg1Exists.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/HYD17/!svn/ver/6904/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/NsepCreatepg1Exists.jsp
+END
+NavigationHeadStudentAccount.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/HYD17/!svn/ver/7411/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/NavigationHeadStudentAccount.jsp
+END
+Login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/HYD17/!svn/ver/7696/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/Login.jsp
+END
+UpdateStudentAccountAdress.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/HYD17/!svn/ver/7421/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/UpdateStudentAccountAdress.jsp
+END
+Logout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/HYD17/!svn/ver/6913/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/Logout.jsp
+END
+NsepDeleteNotPossible.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/HYD17/!svn/ver/6904/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/NsepDeleteNotPossible.jsp
+END
+ViewAllStudentAccounts.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/HYD17/!svn/ver/8367/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/ViewAllStudentAccounts.jsp
+END
+NavigationHeaderTransaction.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/HYD17/!svn/ver/7411/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/NavigationHeaderTransaction.jsp
+END
+NsepCreatepg1NotFound.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/HYD17/!svn/ver/6904/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/NsepCreatepg1NotFound.jsp
+END
+StudentViewMultipleRecords.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/HYD17/!svn/ver/8342/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/StudentViewMultipleRecords.jsp
+END
+StudentAccountDeleteSuccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/HYD17/!svn/ver/7421/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/StudentAccountDeleteSuccess.jsp
+END
+StudentAccountDetailsFailure.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/HYD17/!svn/ver/7381/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/StudentAccountDetailsFailure.jsp
+END
+Transaction.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/HYD17/!svn/ver/7643/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/Transaction.jsp
+END
+HomePage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/HYD17/!svn/ver/8302/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/HomePage.jsp
+END
+Failure_viewStudent.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/HYD17/!svn/ver/7622/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/Failure_viewStudent.jsp
+END
+MenuStudentAccount.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/HYD17/!svn/ver/8366/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/MenuStudentAccount.jsp
+END
+NsepDeleteFailed.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/HYD17/!svn/ver/8309/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/NsepDeleteFailed.jsp
+END
+NsepCreateFailed.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/HYD17/!svn/ver/6904/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/NsepCreateFailed.jsp
+END
+StudentBankAccount.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/HYD17/!svn/ver/7622/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/StudentBankAccount.jsp
+END
+UpdateStudentBankAccount.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/HYD17/!svn/ver/7421/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/UpdateStudentBankAccount.jsp
+END
+NsepCreatePg2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/HYD17/!svn/ver/7241/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/NsepCreatePg2.jsp
+END
+NsepDeleteError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/HYD17/!svn/ver/6904/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/NsepDeleteError.jsp
+END
+StudentDetailsFailure.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/HYD17/!svn/ver/7381/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/StudentDetailsFailure.jsp
+END
+NsepDeleteNotFound.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/HYD17/!svn/ver/8315/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/NsepDeleteNotFound.jsp
+END
+StudentNotPresent.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/HYD17/!svn/ver/7421/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/StudentNotPresent.jsp
+END
+GenerateReports.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/HYD17/!svn/ver/7604/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/GenerateReports.jsp
+END
+DeleteStudentDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/HYD17/!svn/ver/7679/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/DeleteStudentDetails.jsp
+END
+InvalidLogin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/HYD17/!svn/ver/6878/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/InvalidLogin.jsp
+END
+viewRecordDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/HYD17/!svn/ver/6959/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/viewRecordDetails.jsp
+END
+NavigationHead.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/HYD17/!svn/ver/7411/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/NavigationHead.jsp
+END
+NsepDeleteSuccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/HYD17/!svn/ver/6904/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/NsepDeleteSuccess.jsp
+END
+StudentDetailsSucess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/HYD17/!svn/ver/7679/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/StudentDetailsSucess.jsp
+END
+DeleteStudentAccount.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/HYD17/!svn/ver/7421/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/DeleteStudentAccount.jsp
+END
+CreateStudentAccount.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/HYD17/!svn/ver/7406/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/CreateStudentAccount.jsp
+END
+MenuNsep.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/HYD17/!svn/ver/7594/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/MenuNsep.jsp
+END
+DeleteNsepDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/HYD17/!svn/ver/7241/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/DeleteNsepDetails.jsp
+END
+Reports.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/HYD17/!svn/ver/8471/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/Reports.jsp
+END
+Failure_UpdateStudent.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/HYD17/!svn/ver/7622/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/Failure_UpdateStudent.jsp
+END
+Uploadcsv.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/HYD17/!svn/ver/6959/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/Uploadcsv.jsp
+END
+CreateNSEPNew.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/HYD17/!svn/ver/8302/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/CreateNSEPNew.jsp
+END
+DeleteNsepAccount.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/HYD17/!svn/ver/7490/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/DeleteNsepAccount.jsp
+END
+ReportsError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/HYD17/!svn/ver/6904/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/ReportsError.jsp
+END
+StudentAccountUpdateDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/HYD17/!svn/ver/7421/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/StudentAccountUpdateDetails.jsp
+END
+ViewNsepNotFound.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/HYD17/!svn/ver/7696/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/ViewNsepNotFound.jsp
+END
+NsepUpdateFailure.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/HYD17/!svn/ver/6993/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/NsepUpdateFailure.jsp
+END
+NsepCreateSuccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/HYD17/!svn/ver/6904/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/NsepCreateSuccess.jsp
+END
+ViewNsepUsers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/HYD17/!svn/ver/8302/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/ViewNsepUsers.jsp
+END
+ViewStudentDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/HYD17/!svn/ver/7446/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/ViewStudentDetails.jsp
+END
+Header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/HYD17/!svn/ver/7601/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/Header.jsp
+END
+StudentNsepAccount.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/HYD17/!svn/ver/7696/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/StudentNsepAccount.jsp
+END
+viewRecordDetails1.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/HYD17/!svn/ver/6904/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/viewRecordDetails1.jsp
+END
+NsepUpdateSuccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/HYD17/!svn/ver/6993/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/NsepUpdateSuccess.jsp
+END
+ViewNsepDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/HYD17/!svn/ver/6983/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/ViewNsepDetails.jsp
+END
+NavigationHeadNsep.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/HYD17/!svn/ver/7411/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/NavigationHeadNsep.jsp
+END
+MenuTransaction.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/HYD17/!svn/ver/6858/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/MenuTransaction.jsp
+END
+ViewName.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/HYD17/!svn/ver/7622/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/ViewName.jsp
+END
+ViewStudentDetailsSucess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/HYD17/!svn/ver/8343/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/ViewStudentDetailsSucess.jsp
+END
+ViewNsepAccount.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/HYD17/!svn/ver/7696/H80/trunk/Group-B/Project/NSEPFinalProject/WebContent/jsp/ViewNsepAccount.jsp
+END

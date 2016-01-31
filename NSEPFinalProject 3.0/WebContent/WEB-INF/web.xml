@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>NSEPFinalProject</display-name>
+  <welcome-file-list>
+    <welcome-file>/jsp/Login.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>StudentAccountController</display-name>
+    <servlet-name>StudentAccountController</servlet-name>
+    <servlet-class>com.tcs.ilp.controller.StudentAccountController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>StudentAccountController</servlet-name>
+    <url-pattern>/StudentAccountController</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>NsepAccountController</display-name>
+    <servlet-name>NsepAccountController</servlet-name>
+    <servlet-class>com.tcs.ilp.controller.NsepAccountController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>NsepAccountController</servlet-name>
+    <url-pattern>/NsepAccountController</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>GenerateReportsController</display-name>
+    <servlet-name>GenerateReportsController</servlet-name>
+    <servlet-class>com.tcs.ilp.controller.GenerateReportsController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>GenerateReportsController</servlet-name>
+    <url-pattern>/GenerateReportsController</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>Transaction</display-name>
+    <servlet-name>Transaction</servlet-name>
+    <servlet-class>com.tcs.ilp.controller.Transaction</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Transaction</servlet-name>
+    <url-pattern>/Transaction</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>LoginController</display-name>
+    <servlet-name>LoginController</servlet-name>
+    <servlet-class>com.tcs.ilp.controller.LoginController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LoginController</servlet-name>
+    <url-pattern>/LoginController</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>TransactionController</display-name>
+    <servlet-name>TransactionController</servlet-name>
+    <servlet-class>com.tcs.ilp.controller.TransactionController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>TransactionController</servlet-name>
+    <url-pattern>/TransactionController</url-pattern>
+  </servlet-mapping>
+
+	<servlet> 
+<servlet-name>log4j-init</servlet-name>
+<servlet-class>com.tcs.ilp.controller.Log4jInit</servlet-class> 
+<init-param> 
+<param-name>log4j-init-file</param-name>
+<param-value>WEB-INF/log4j.properties</param-value>
+</init-param> 
+<load-on-startup>1</load-on-startup> 
+</servlet>
+
+<session-config>
+<session-timeout>30</session-timeout>
+</session-config>	
+	
+</web-app>
