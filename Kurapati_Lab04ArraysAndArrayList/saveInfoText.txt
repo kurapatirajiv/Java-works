@@ -1,0 +1,38 @@
+Total Faculty objects created from faculty.txt = 8
+
+Contents of faculty list (5 faculty members)
+Name: Andrew Kabasele; Salary: $36000.47
+Name: Jonathan Abarbanel; Salary: $48000.45
+Name: Hessamoddin Abbassi; Salary: $38403.46
+Name: Khaled Abdelhady; Salary: $74000.89
+Name: Jeremiah Abiade; Salary: $98403.47
+
+Average Salary: $58961.75
+
+Adding one faculty to end of list
+
+Attempting to add one faculty to list at index 3
+Unable to add faculty
+
+Attempting to add one faculty to list at index 40
+Unable to add faculty
+
+Number of faculty members in list: 5
+Attempting to remove a faculty at index equal to the number of faculty members in the list (currently 5)
+Unable to remove
+
+Attempting to remove a faculty at index 5
+Unable to remove
+
+Attempting to remove a faculty at index 20
+Unable to remove
+
+Contents of faculty list (5 faculty members)
+Contents of list
+Name: Andrew Kabasele; Salary: $36000.47
+Name: Jonathan Abarbanel; Salary: $48000.45
+Name: Hessamoddin Abbassi; Salary: $38403.46
+Name: Khaled Abdelhady; Salary: $74000.89
+Name: Jeremiah Abiade; Salary: $98403.47
+
+Average Salary: $58961.75
